@@ -1,7 +1,24 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aniket!
 
-I'm Aniket Yadav, currently building my portfolio to apply for jobs in near future.
- 
+<a href="https://www.linkedin.com/in/aniket-ydv/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/Aniket_ydv">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:anikety0000@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://hashnode.com/@aniketydv">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+
+
+### About Me 🚀
+
 - 🌱 I’m currently learning application of machine learning algorithms and creating projects around them.
 - 💞️ I’m looking to collaborate on open source projects focusing on ML/AI applications.
 - 👀 I'm passionate about building solutions for real-world problems, Astronomy, and Life in general.
