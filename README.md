@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aniket!](https://aniket-portfolio-v1.herokuapp.com/project)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aniket!](https://aniket-portfolio-v1.herokuapp.com)
 
 <a href="https://www.linkedin.com/in/aniket-ydv/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
