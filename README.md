@@ -1,5 +1,6 @@
-<h2>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px">, I'm <a href="https://aniket-portfolio-v1.herokuapp.com">Aniket!</a></h2>
+## 👋 Hey, I'm [Aniket](https://aniket-portfolio-v1.herokuapp.com)!
 
+### Welcome to my GitHub Portfolio! 🚀
 
 <a href="https://www.linkedin.com/in/aniket-ydv/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -20,10 +21,10 @@
 
 ### About Me 🚀
 
-- 🌱 I’m currently learning application of deep learning and Computer vision and creating projects around them.
-- 💞️ I’m looking to collaborate on open source projects focusing on ML/AI applications.
+- 💟 I’m working as a Data Engineer @Accenture.
+- 🌱 I’m currently learning applications of deep learning and Computer vision and creating projects around them.
 - 👀 I'm passionate about building solutions for real-world problems, Astronomy, and Life in general.
-- 🐼 I adore animals and enjoy great converations!
+- 🐼 I adore animals and enjoy great conversations!
 
 
 ### Github Stats
